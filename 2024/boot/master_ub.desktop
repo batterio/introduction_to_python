@@ -2,5 +2,5 @@
 Type=Application
 Terminal=false
 Name="Jupyterlab"
-Icon=/home/master_ub/master_ub/boot/jupyterlab.png
-Exec=/home/master_ub/master_ub/boot/open_jupyterlab.sh
+Icon=/home/masterub/master_ub/boot/jupyterlab.png
+Exec=/home/masterub/master_ub/boot/open_jupyterlab.sh
