@@ -1,10 +1,10 @@
-# Introduction to Python
+Introduction to Python
+======================
 
-In this repository are the jupyter notebooks used for the UB master course in bioinformatics
+This repository contains the material used in the `hands-on` section of the UB master course `Introduction to coding` (February 2025)  
 
-To run the code start clone this repository and then start the Jupyter notebook or the Jupyter lab in your computer.
+To run the code just clone this repository and then start Jupyter notebook or Jupyter lab on your computer. The notebooks used in the course are in the folder `course/notebooks`.  
+Alternatively, if you cannot install Python and Jupyterlab on your computer, you can use [Google Colab](https://colab.research.google.com/github/batterio/introduction_to_python/blob/master/2025/course/notebooks/index.ipynb). 
 
-The material can also be explored in [nbviewer.ipython.org](https://nbviewer.ipython.org/github/batterio/introduction_to_python/blob/master/notebooks/index.ipynb)
-
-The slides of the presentation are [here](https://docs.google.com/presentation/d/1JLvs9RG6MeeioZeOTTAzDOsavLOvfvMISIMh2NFrgKA/edit?usp=sharing)
+The slides of the presentation are available [here](https://docs.google.com/presentation/d/11G-e6zB6aOVzAmoM-gPDi8OeR6c5ORPpDQwuWkmzX7M/edit?usp=sharing)
 
