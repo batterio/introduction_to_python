@@ -1,4 +1,0 @@
-Python in Lubuntu lacks pip. To install it:
-
-`sudo apt install python3-pip`
-
